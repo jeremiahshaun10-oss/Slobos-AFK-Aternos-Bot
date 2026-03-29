@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "diddy",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "DABOYSSMP6000.aternos.me",
     "port": 42046,
-    "version": "26.1",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
